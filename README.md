@@ -1,4 +1,3 @@
-# practicasRaspberry
 
 <!DOCTYPE html>
 <html>
