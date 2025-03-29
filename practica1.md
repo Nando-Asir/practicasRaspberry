@@ -2,6 +2,6 @@
 
 ---
 
-<p align="center"><img src="img/ledIntermitente.png" alt="ledInt"></p>
+<p align="center"><img src="img/ledIntermitente.png" alt="ledInt" width="22%"></p>
 
 ---
