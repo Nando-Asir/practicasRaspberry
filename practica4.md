@@ -1,4 +1,4 @@
-## 4. [Detector Presencia con Salida Relé](practica4.md)
+## 4. [Detector Presencia con Salida Relé](README.md)
 
 ---
 
