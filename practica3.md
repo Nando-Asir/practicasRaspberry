@@ -2,11 +2,11 @@
 
 ---
 
-<img src="img/escenSemaforo.png" width="300px" heigth="200px">
 <div style="display: flex; justify-content: center;">
-  <img src="img/ledRojaSemaforo.png" alt="ledRojo">
-  <img src="img/ledAmarillaSemaforo.png" alt="ledAmarillo">
-  <img src="img/ledVerdeSemaforo.png" alt="ledVerde">
+  <img src="img/escenSemaforo.png" alt="escenario" width="22%">
+  <img src="img/ledRojaSemaforo.png" alt="ledRojo" width="22%">
+  <img src="img/ledAmarillaSemaforo.png" alt="ledAmarillo" width="22%">
+  <img src="img/ledVerdeSemaforo.png" alt="ledVerde" width="22%">
 </div>
 
 ---
