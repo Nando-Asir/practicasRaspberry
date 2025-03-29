@@ -2,6 +2,6 @@
 
 ---
 
-
+<p align="center"><img src="img/detecMov.png" alt="detectMov" width="22%"></p>
 
 ---
