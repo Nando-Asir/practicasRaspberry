@@ -1,4 +1,4 @@
-## 6. [Aviso Acústico de Inclinación](practica6.md)
+## 6. [Aviso Acústico de Inclinación](README.md)
 
 ---
 
