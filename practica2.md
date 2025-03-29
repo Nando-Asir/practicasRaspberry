@@ -1,4 +1,4 @@
-## 2. [Led con Pulsador](practica2.md)
+## 2. [Led con Pulsador](README.md)
 
 ---
 
