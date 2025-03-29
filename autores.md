@@ -1,3 +1,5 @@
 ## 👥 [AUTORES](README.md)
 
-- [Nando-Asir](https://github.com/Nando-Asir)
+- [Fernando Durán](https://github.com/Nando-Asir)
+- [Ivan Barranco](https://github.com/IvanBL8)
+- [Migue Hillert](https://github.com/MiguelHillert)
