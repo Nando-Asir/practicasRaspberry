@@ -2,6 +2,6 @@
 
 ---
 
-<p align="center"><img src="img/ledPuksador.png" alt="ledPuls"></p>
+<p align="center"><img src="img/ledPulsador.png" alt="ledPuls"></p>
 
 ---
