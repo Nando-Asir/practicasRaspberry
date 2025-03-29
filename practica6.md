@@ -2,6 +2,6 @@
 
 ---
 
-
+<p align="center"><img src="img/avisoAcustico.png" alt="avisoAcust" width="22%"></p>
 
 ---
