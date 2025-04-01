@@ -1,6 +1,6 @@
 ## 4. [Detector Presencia con Salida Relé](README.md)
 
-### Led Rojo se enciende al detectar movimiento.
+### Al detectar el movimiento, aparece diálogo "TE HAS MOVIDO", al no detectar movimiento "NO TE HAS MOVIDO".
 
 ---
 
