@@ -1,6 +1,6 @@
 ## 1. [Led Intermitente](README.md)
 
-La led Roja se enciende al iniciar el programa
+La led Roja se enciende durante 1 segundo y se apaga durante 1 segundo en bucle.
 
 ---
 
