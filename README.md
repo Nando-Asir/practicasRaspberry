@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center"><img src="img/raspberryPi4.jpg" alt="raspberry" width="50%"></p>
+
+---
+
 ## 1. [Led Intermitente](practica1.md)
 ## 2. [Led con Pulsador](practica2.md)
 ## 3. [Leds Semáforo](practica3.md)
