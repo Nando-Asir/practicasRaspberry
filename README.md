@@ -6,7 +6,7 @@
 
 ---
 
-## En las siguientes prácticas utilizaremos la Raspberry Pi 4 con algunos sensores mencionados en cada práctica.
+En las siguientes prácticas utilizaremos la Raspberry Pi 4 con algunos sensores mencionados en cada práctica.
 
 ---
 
