@@ -1,5 +1,7 @@
 ## 3. [Leds Semáforo](README.md)
 
+### Led Rojo se enciende durante 10 segundos, pasa a Led Amarilla durante 1 segundo y termina Led Verde durante 10 segundos en bucle.
+
 ---
 
 <div style="display: flex; justify-content: center;">
