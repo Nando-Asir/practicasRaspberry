@@ -6,6 +6,10 @@
 
 ---
 
+## En las siguientes prácticas utilizaremos la Raspberry Pi 4 con algunos sensores mencionados en cada práctica.
+
+---
+
 ## 1. [Led Intermitente](practica1.md)
 ## 2. [Led con Pulsador](practica2.md)
 ## 3. [Leds Semáforo](practica3.md)
