@@ -16,4 +16,3 @@
 ### 🎞️ [Descargar Video](https://raw.githubusercontent.com/Nando-Asir/practicasRaspberry/refs/heads/main/videos/semaforoLed.mov)
 
 
-##HOLA
